@@ -1,12 +1,15 @@
 {
-  "name": "begin-app",
-  "version": "0.0.0",
-  "description": "Begin basic Hello World! app for Node",
+  "name": "writes-functions",
+  "version": "0.1.0",
+  "description": "writes. functions",
   "scripts": {
     "start": "cross-env NODE_ENV=testing npx sandbox"
   },
   "devDependencies": {
     "@architect/sandbox": "latest",
     "cross-env": "^7.0.2"
+  },
+  "dependencies": {
+    "@architect/functions": "^3.12.1"
   }
 }

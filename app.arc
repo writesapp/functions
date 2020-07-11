@@ -1,5 +1,5 @@
 @app
-begin-app
+writes-functions
 
 @http
 get /
