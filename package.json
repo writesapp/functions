@@ -10,6 +10,7 @@
     "cross-env": "^7.0.2"
   },
   "dependencies": {
-    "@architect/functions": "^3.12.1"
+    "@architect/functions": "^3.12.1",
+    "firebase-admin": "^9.0.0"
   }
 }

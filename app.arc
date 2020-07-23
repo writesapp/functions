@@ -3,6 +3,7 @@ writes-functions
 
 @http
 get /
+get /writes
 
 @tables
 data
